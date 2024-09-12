@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.21.0"
+  },
+  "name": "techrow-redirect-api",
+  "version": "1.0.0",
+  "description": "Simple Express.js redirecting API that handles broken Url change to the working one.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Techrow2/vr-video-chi.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Art Anisimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Techrow2/vr-video-chi/issues"
+  },
+  "homepage": "https://github.com/Techrow2/vr-video-chi#readme"
+}
